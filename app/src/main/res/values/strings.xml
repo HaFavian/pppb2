@@ -1,5 +1,10 @@
 <resources>
-    <string name="app_name">pppb2_tugasweek2</string>
+    <string name="app_name">Tugas Fragment</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="judul">Touhou Project</string>
+    <string name="text_isi">Touhou Project (東方Project Tōhō Purojekuto, harfiah: "Proyek Ketimuran") juga dikenal sebagai Toho Project atau Project Shrine Maiden, adalah seri permainan tembak menembak yang dikembangkan oleh Team Shanghai Alice. Team Shanghai Alice hanya beranggotakan satu orang saja, yaitu ZUN yang melakukan produksi, grafis, musik, dan pemrograman sendiri secara mandiri</string>
+
+    <string name="teks_tombol">Selanjutnya</string>
 </resources>
