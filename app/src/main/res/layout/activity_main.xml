@@ -4,13 +4,20 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:orientation="vertical"
     tools:context=".MainActivity">
 
-    <fragment
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
+    <FrameLayout
         android:id="@+id/frag"
-        android:name="com.example.pppb2_tugasweek2.StaticFragment">
-    </fragment>
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/tombol_ganti"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/teks_tombol"
+        android:layout_gravity="center"/>
 
 </LinearLayout>
